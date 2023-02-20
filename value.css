@@ -1,0 +1,31 @@
+#valueid{
+    text-align: center;
+    font-size: 70px;
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 48%;
+}
+div{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+#decrease{
+    padding:20px 20px;
+    border-radius: 19%;
+    background-color: aqua;
+}
+#reset{
+    padding:20px 20px;
+    border-radius: 19%;
+    background-color: blueviolet;
+}
+#increase{
+    padding:20px 20px;
+    border-radius: 19%;
+    background-color: chartreuse;
+}
